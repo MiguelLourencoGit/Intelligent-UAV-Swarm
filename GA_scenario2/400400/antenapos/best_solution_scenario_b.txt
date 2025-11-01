@@ -1,0 +1,7 @@
+=== Melhor Solução - Cenário B ===
+Posições e Ângulos dos UAVs:
+UAV 0: x=68.77, y=29.40, angle=76.92°
+UAV 1: x=53.67, y=13.97, angle=91.33°
+UAV 2: x=34.45, y=8.42, angle=111.42°
+UAV 3: x=73.17, y=9.41, angle=63.24°
+Posição do Jammer: x=50.00, y=100.00
